@@ -1,0 +1,6 @@
+{
+    "kty": "RSA",
+    "alg": "RS384",
+    "n": "uJJFtVLEa9fGBp6_G4UIg0xvUnTk13pxGxCOZFDBim0-RjYOBxEhbYC5A0sjE5nFHcCkb14kvhpDWFwMLtgOz-So8xpJIFY-31f-_LTQP_6O_5UVWnMhIQafgXcl4SZxz-JVNdZd_ucT7VUTx-h8l9C0KKAaEH6y-7pEE5N23qjRFeA7Z6MEGKkFPWbl6RvbQaMcID8EmkYyqhAhwnS5bFeISwRnpUgqM16zjDPYS7lgEh5TaQjtiEktslQ1NzoAn6XD0RwdmfTuPoa3AHd8NIpEqb4j0ln6QRz-hPeBEl8qXX_6fIMLOlAanJfabe1-RXm-930nBo7Sz1q06rQ65Q",
+    "e": "AQAB"
+}
